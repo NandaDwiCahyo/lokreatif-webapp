@@ -19,7 +19,7 @@
 
 		<div class="row mt-1 justify-content-center">
 			<div class="col-md-1 mr-3 my-2">
-				<a href="" class="btn btn-primary">Masuk</a>
+				<a href="/login" class="btn btn-primary">Masuk</a>
 			</div>
 			<div class="col-md-1 my-2">
 				<a href="" class="btn btn-success">Forum</a>

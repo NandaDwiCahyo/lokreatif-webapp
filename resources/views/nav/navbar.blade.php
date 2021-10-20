@@ -36,8 +36,8 @@
 	    <div class="navbar-nav ml-auto">
 	      <a class="nav-link active" href="#">Halaman Utama <span class="sr-only">(current)</span></a>
 	      <a class="nav-link" href="#">Forum</a>
-	      <a class="tombol btn btn-primary mr-1" href="#" >Masuk</a>
-	      <a class="tombol btn btn-secondary" href="#">Daftar</a>
+	      <a class="tombol btn btn-primary mr-1" href="/login" >Masuk</a>
+	      <a class="tombol btn btn-secondary" href="/register">Daftar</a>
 	    </div>
 	  </div>
   </div>
